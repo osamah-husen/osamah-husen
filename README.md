@@ -11,7 +11,7 @@ Welcome to my professional project repository, showcasing a range of hands-on so
 
 A virtualized environment used for testing enterprise-grade server configurations, experimenting with operating systems, and simulating real-world IT infrastructure for learning and troubleshooting purposes.
 
-- 🛠️ R70 Server Project (Core Focus)
+- 🛠️ R70 Server Project (Core Focus)- (https://github.com/osamah-husen/server)
 - 🌐 (PowerShell, Infra Scripts)
 - 🖥️ **Server Administration & Maintenance**
 
