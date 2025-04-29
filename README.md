@@ -1,47 +1,59 @@
-<h1>Hi, I'm Osamh husen! <br/><a href="https://github.com/joshmadakor1">networking  </a><a href="https://www.linkedin.com/in/joshmadakor/"> & cyber security projects </a>
+# 👋 Hi, I'm Osamh Husen!
+## 🚀 Networking & Cybersecurity Projects Portfolio
 
-<h2>👨‍💻 Nertworking Projects:</h2>
+Welcome to my professional project repository, showcasing a range of hands-on solutions in:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <h2>👨‍💻 cyber security projects</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - - sdaljd
+- 🔧 IT & Development
+- 🌐 Networking (routing, Switching and security)
+- 🔐 Cybersecurity (Monitoring, Utilities, and Secure Web Apps)
+---
+## 🚀 **Home Lab**
 
+A virtualized environment used for testing enterprise-grade server configurations, experimenting with operating systems, and simulating real-world IT infrastructure for learning and troubleshooting purposes.
 
-  
+- 🛠️ R70 Server Project (Core Focus)
+- 🌐 (PowerShell, Infra Scripts)
+- 🖥️ **Server Administration & Maintenance**
 
+---
 
+## 🌐 Networking Projects
 
+1. **Windows RDP Log Parser** – PowerShell tool to detect failed RDP login attempts and trace IPs.
+2. **Disk Wiping Utility** – JWIPE-based PowerShell script for secure disk erasure.
+3. **Image Analysis Middleware** – Smart image classification module *(includes potentially NSFW content)*.
 
+📂 Folder: `networking-projects/`
 
+---
 
+## 🔐 Cybersecurity Projects
 
+1. **File Integrity Monitor (FIM)** – Detects unauthorized file modifications using PowerShell.
+2. **Secured Full Stack Web App** – Web application with hardened authentication and input validation.
+3. **Sdaljd** *(Placeholder Project)* – Reserved for future development or documentation.
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+📂 Folder: `cybersecurity-projects/`
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧭 Navigation Tips
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Each project folder includes:
+- 📄 A detailed README
+- 🧠 Technologies used
+- ⚙️ How to run or deploy
+- 🖼️ Screenshots or code examples (where relevant)
+
+---
+
+## 📬 Let's Connect
+
+- **GitHub**: [yourusername](https://github.com/yourusername)  
+- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
+
+---
+
+## 📄 License
+
+This repository is licensed under the MIT License. See `LICENSE` for more information.
