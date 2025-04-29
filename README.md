@@ -1,4 +1,4 @@
-<h1>Hi, I'm Osamh husen! <br/><a href="https://github.com/joshmadakor1">networking  </a>, <a href="https://www.linkedin.com/in/joshmadakor/"> & cyber security projects </a>, 
+<h1>Hi, I'm Osamh husen! <br/><a href="https://github.com/joshmadakor1">networking  </a><a href="https://www.linkedin.com/in/joshmadakor/"> & cyber security projects </a>
 
 <h2>👨‍💻 Nertworking Projects:</h2>
 
