@@ -19,7 +19,7 @@ A virtualized environment used for testing enterprise-grade server configuration
 
 ## 🌐 Networking Projects
 
-1. **Windows RDP Log Parser** – PowerShell tool to detect failed RDP login attempts and trace IPs.
+1. **Networking home lab** –(https://github.com/osamah-husen/network-homwlab)
 2. **Disk Wiping Utility** – JWIPE-based PowerShell script for secure disk erasure.
 3. **Image Analysis Middleware** – Smart image classification module *(includes potentially NSFW content)*.
 
