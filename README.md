@@ -18,22 +18,19 @@ A virtualized environment used for testing enterprise-grade server configuration
 ---
 
 ## 🌐 Networking Projects
-
 1. **Networking home lab** –(https://github.com/osamah-husen/network-homwlab)
-2. **Disk Wiping Utility** – JWIPE-based PowerShell script for secure disk erasure.
-3. **Image Analysis Middleware** – Smart image classification module *(includes potentially NSFW content)*.
+2. 
+3. 
 
-📂 Folder: `networking-projects/`
 
 ---
 
 ## 🔐 Cybersecurity Projects
 
 1. **File Integrity Monitor (FIM)** – Detects unauthorized file modifications using PowerShell.
-2. **Secured Full Stack Web App** – Web application with hardened authentication and input validation.
-3. **Sdaljd** *(Placeholder Project)* – Reserved for future development or documentation.
+2. 
+3. 
 
-📂 Folder: `cybersecurity-projects/`
 
 ---
 
@@ -44,8 +41,3 @@ A virtualized environment used for testing enterprise-grade server configuration
 - **GitHub**: [yourusername](https://github.com/yourusername)  
 - **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
 
----
-
-## 📄 License
-
-This repository is licensed under the MIT License. See `LICENSE` for more information.
