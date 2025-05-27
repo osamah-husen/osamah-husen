@@ -16,7 +16,16 @@ Welcome to my professional project repository, showcasing a range of hands-on so
 
 ## 🌐 Networking Projects
 - **Networking home lab** (https://github.com/osamah-husen/network-homwlab) <br> Personal networking home lab for practicing routing, switching, firewall, and server configurations. This hands-on lab environment uses virtual and physical devices to build real-world network topologies and enhance practical networking skills.
-- **Proxmox for VMs and servises** 
+  
+- **Proxmox for VMs and servises** (https://github.com/osamah-husen/proxmox-8.4.11) <br> Deployed Proxmox on a physical server to virtualize and manage multiple VMs and services efficiently.
+  
+  - TrueNAS for storage
+ 
+  - Ubuntu for website hosting
+ 
+  - Windows 10 Server for Active Directory
+ 
+  - Kali Linux for network scanning
 
 
 ---
