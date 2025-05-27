@@ -16,7 +16,7 @@ Welcome to my professional project repository, showcasing a range of hands-on so
 
 ## 🌐 Networking Projects
 - **Networking home lab** (https://github.com/osamah-husen/network-homwlab) <br> Personal networking home lab for practicing routing, switching, firewall, and server configurations. This hands-on lab environment uses virtual and physical devices to build real-world network topologies and enhance practical networking skills.
- 
+- **Proxmox for VMs and servises** 
 
 
 ---
