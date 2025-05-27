@@ -1,17 +1,13 @@
 # 👋 Hi, I'm Osamh Husen!
-## 🚀 Networking & Cybersecurity Projects Portfolio
+Welcome to my professional project repository, showcasing a range of hands-on solutions 
 
-Welcome to my professional project repository, showcasing a range of hands-on solutions in:
-
-- 🔧 IT & Development
-- 🌐 Networking (routing, Switching and security)
-- 🔐 Cybersecurity (Monitoring, Utilities, and Secure Web Apps)
+ 🚀 Networking & Cybersecurity Projects Portfolio
 ---
-## 🚀 **Home Lab**
 
-A virtualized environment used for testing enterprise-grade server configurations, experimenting with operating systems, and simulating real-world IT infrastructure for learning and troubleshooting purposes.
+ 🚀 **Home Lab**
 
-- 🛠️ **R70 Server** Project (Core Focus)- (https://github.com/osamah-husen/server)
+- 🛠️A Dell PowerEdge R710 home lab server runs Proxmox VE to manage VMs, containers (LXC), and Kubernetes clusters. It hosts services like Docker apps, home automation, media servers, and development environments for testing and learning.(https://github.com/osamah-husen/server)
+  
 - 🌐 **Scripting** (PowerShell, Bash and python )
 - 🖥️ **Active Directory** (Server Administration & Maintenance)
 
@@ -27,7 +23,7 @@ A virtualized environment used for testing enterprise-grade server configuration
 
 ## 🔐 Cybersecurity Projects
 
-1. **File Integrity Monitor (FIM)** – Detects unauthorized file modifications using PowerShell.
+1. 
 2. 
 3. 
 
